@@ -1,4 +1,4 @@
-#include "main.h"
+i#include "main.h"
 
 /**
  * get_width - Calculates the width for printing
@@ -8,6 +8,7 @@
  *
  * Return: width.
  */
+
 int get_width(const char *format, int *i, va_list list)
 {
 	int curr_i;
